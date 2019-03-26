@@ -517,6 +517,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 * [SwiftyUserDefaults](https://github.com/radex/SwiftyUserDefaults) - Cleaner, nicer syntax for NSUserDefaults.
 * [UserDefaultsStore](https://github.com/omaralbeik/UserDefaultsStore) - Why not use UserDefaults to store Codable objects 😉.
 * [Zephyr](https://github.com/ArtSabintsev/Zephyr) - Effortlessly synchronize NSUserDefaults over iCloud.
+* [RStorage](https://github.com/Puasonych/RStorage) - UserDefaults abstraction framework with caching.
 
 #### MongoDB
 [back to top](#readme) 
@@ -960,6 +961,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 * [SwiftyOAuth](https://github.com/delba/SwiftyOAuth) - A small OAuth library with a built-in set of providers.
 * [TRON](https://github.com/MLSDev/TRON) - Lightweight network abstraction layer, written on top of Alamofire.
 * [Wormholy](https://github.com/pmusolino/Wormholy) - iOS network debugging, like a wizard 🧙‍.
+* [Buya](https://github.com/Puasonych/Buya) - Network abstraction layer based on RxSwift.
 
 #### HTML
 *Need to manipulate contents from html easily?* [back to top](#readme) 
